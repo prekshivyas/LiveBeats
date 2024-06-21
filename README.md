@@ -2,7 +2,7 @@
 
 I have always been an ardent lover of the cloud and Apache Airflow (even before Data Engneering was a thing!)
 
-In this project I delve into GCP and Data Analytics to bring to you LiveBeats!
+In this project I delve into GCP and Data Analytics to bring to you LiveBeats.
  
 This is my attempt at generating an end to end data pipeline using Apache Kafka, Apache Spark Streaming, dbt, Docker, Airflow, Terraform and GCP to visualize real time streaming music data.
 

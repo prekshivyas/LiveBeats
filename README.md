@@ -1,6 +1,6 @@
 # liveBeats
 
-I have always been an ardent lover of the cloud and Apache Airflow (even before Data Engneering was a thing!)
+I have always been an ardent lover of the cloud and Apache Airflow
 
 In this project I delve into GCP and Data Analytics to bring to you LiveBeats.
  
